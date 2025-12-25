@@ -1,4 +1,4 @@
-# 🚀 Binance Futures Order Bot
+# 🚀 TradeForge - Binance Futures Order Bot
 
 > A production-ready, secure CLI trading bot for Binance USDT-M Futures with advanced algorithmic trading capabilities
 
@@ -275,3 +275,4 @@ For questions, collaboration opportunities, or technical discussions about algor
 <div align="center">
   <b>Built with precision. Secured by design. Optimized for performance.</b>
 </div>
+
